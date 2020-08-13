@@ -24,6 +24,7 @@ ScriptedImporter:
     isReadable: 0
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
+    vTOnly: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -42,6 +43,7 @@ ScriptedImporter:
     textureType: 8
     textureShape: 1
     singleChannelComponent: 0
+    ignorePngGamma: 0
     filterMode: 0
     aniso: 1
     mipBias: 0
@@ -61,6 +63,7 @@ ScriptedImporter:
     maxTextureSizeSet: 0
     compressionQualitySet: 0
     textureFormatSet: 0
+    applyGammaDecoding: 0
   spriteImportData:
   - name: 
     originalName: 
@@ -14191,36 +14194,8 @@ ScriptedImporter:
       order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
-  boneGOs:
-  - go: {fileID: 7895303150391609034, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 0
-  - go: {fileID: 1766371813246744628, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 1
-  - go: {fileID: 4431562240888051108, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 2
-  - go: {fileID: 3400159184590744682, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 3
-  - go: {fileID: -8489871981762918258, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 4
-  - go: {fileID: -2010987188511741747, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 5
-  - go: {fileID: -4289506213671111149, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 6
-  - go: {fileID: 1656117939349227299, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 7
-  - go: {fileID: -4619427561127661718, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 8
-  - go: {fileID: 6128240520931197077, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 9
-  - go: {fileID: -3213329899761066605, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 10
-  - go: {fileID: 313507069666893566, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 11
-  - go: {fileID: -7528622599972430128, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 12
-  - go: {fileID: 5559721332127519190, guid: a0fde8b76c59f1d4394a981eba803cfb, type: 3}
-    index: 13
   generateGOHierarchy: 0
   textureAssetName: stick_fig Texture
   prefabAssetName: stick_fig Prefab
   spriteLibAssetName: stick_fig Sprite Lib
+  secondarySpriteTextures: []
